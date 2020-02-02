@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="008bae9b-ff8c-4b06-bb8a-380f26676772" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1X8VSw6KzFnCbQUQj5KMVpzAy6l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Rails.Development: weathertracker">
+    <configuration name="Development: weathertracker" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="weathertracker" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: weathertracker" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="weathertracker" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: weathertracker" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="weathertracker" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: weathertracker" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="weathertracker" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="008bae9b-ff8c-4b06-bb8a-380f26676772" name="Default Changelist" comment="" />
+      <created>1580427711312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580427711312</updated>
+      <workItem from="1580427714134" duration="11048000" />
+    </task>
+    <task id="LOCAL-00001" summary="database YAML set up">
+      <created>1580658372061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658372061</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gemfile updates">
+      <created>1580658391638</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658391638</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added Gemfile.lock">
+      <created>1580658497722</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658497722</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cronjob to get yesterdays weather">
+      <created>1580658582924</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658582924</updated>
+    </task>
+    <task id="LOCAL-00005" summary="seed file to load DB with past 30days weather.">
+      <created>1580658607567</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658607567</updated>
+    </task>
+    <task id="LOCAL-00006" summary="routes file">
+      <created>1580658624408</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658624408</updated>
+    </task>
+    <task id="LOCAL-00007" summary="serializers">
+      <created>1580658640472</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658640472</updated>
+    </task>
+    <task id="LOCAL-00008" summary="basic models">
+      <created>1580658652873</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658652873</updated>
+    </task>
+    <task id="LOCAL-00009" summary="basic migrations">
+      <created>1580658665511</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658665511</updated>
+    </task>
+    <task id="LOCAL-00010" summary="basic controllers">
+      <created>1580658677115</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658677115</updated>
+    </task>
+    <task id="LOCAL-00011" summary="darksky init file">
+      <created>1580658709344</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658709344</updated>
+    </task>
+    <task id="LOCAL-00012" summary="days controller">
+      <created>1580658720454</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658720454</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="database YAML set up" />
+    <MESSAGE value="gemfile updates" />
+    <MESSAGE value="added Gemfile.lock" />
+    <MESSAGE value="cronjob to get yesterdays weather" />
+    <MESSAGE value="seed file to load DB with past 30days weather." />
+    <MESSAGE value="routes file" />
+    <MESSAGE value="serializers" />
+    <MESSAGE value="basic models" />
+    <MESSAGE value="basic migrations" />
+    <MESSAGE value="basic controllers" />
+    <MESSAGE value="darksky init file" />
+    <MESSAGE value="days controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="days controller" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1587" y="422" width="1655" height="1399" key="CommitChangelistDialog2" timestamp="1580658756611">
+      <screen x="0" y="23" width="3360" height="1867" />
+    </state>
+    <state x="1587" y="422" width="1655" height="1399" key="CommitChangelistDialog2/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580658756611" />
+    <state width="1630" height="283" key="GridCell.Tab.0.bottom" timestamp="1580441003765">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1630" height="545" key="GridCell.Tab.0.bottom/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580429453321" />
+    <state width="1630" height="283" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580441003765" />
+    <state width="1630" height="283" key="GridCell.Tab.0.center" timestamp="1580441003764">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1630" height="545" key="GridCell.Tab.0.center/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580429453320" />
+    <state width="1630" height="283" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580441003764" />
+    <state width="1630" height="283" key="GridCell.Tab.0.left" timestamp="1580441003764">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1630" height="545" key="GridCell.Tab.0.left/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580429453320" />
+    <state width="1630" height="283" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580441003764" />
+    <state width="1630" height="283" key="GridCell.Tab.0.right" timestamp="1580441003765">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1630" height="545" key="GridCell.Tab.0.right/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580429453321" />
+    <state width="1630" height="283" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580441003765" />
+    <state x="2029" y="595" key="SettingsEditor" timestamp="1580427785310">
+      <screen x="0" y="23" width="3360" height="1867" />
+    </state>
+    <state x="2029" y="595" key="SettingsEditor/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580427785310" />
+    <state x="1999" y="520" width="782" height="873" key="find.popup" timestamp="1580445581307">
+      <screen x="0" y="23" width="3360" height="1867" />
+    </state>
+    <state x="1999" y="520" width="782" height="873" key="find.popup/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580445581307" />
+    <state x="1971" y="453" width="838" height="1032" key="search.everywhere.popup" timestamp="1580446412178">
+      <screen x="0" y="23" width="3360" height="1867" />
+    </state>
+    <state x="1971" y="453" width="838" height="1032" key="search.everywhere.popup/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580446412178" />
+  </component>
+</project>
