@@ -85,5 +85,7 @@ test:
 production:
   <<: *default
   database: weathertracker_production
-  username: weathertracker
   password: <%= ENV['WEATHERTRACKER_DATABASE_PASSWORD'] %>
+  username: <%= ENV.fetch('DB_USER') %>
+  port: <%= ENV.fetch('DB_PORT', 5432) %>
+  host: <%= ENV.fetch('DATABASE_URL', '127.0.0.1') %>
