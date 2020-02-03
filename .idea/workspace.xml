@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="008bae9b-ff8c-4b06-bb8a-380f26676772" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/weathertracker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/weathertracker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/initializers/cors.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/initializers/cors.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +136,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580427711312</updated>
-      <workItem from="1580427714134" duration="11048000" />
+      <workItem from="1580427714134" duration="11611000" />
+      <workItem from="1580666182033" duration="1115000" />
     </task>
     <task id="LOCAL-00001" summary="database YAML set up">
       <created>1580658372061</created>
@@ -217,7 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580658720454</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="locations controller">
+      <created>1580658730133</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658730133</updated>
+    </task>
+    <task id="LOCAL-00014" summary="generated files">
+      <created>1580658773829</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580658773829</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,13 +256,15 @@
     <MESSAGE value="basic controllers" />
     <MESSAGE value="darksky init file" />
     <MESSAGE value="days controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="days controller" />
+    <MESSAGE value="locations controller" />
+    <MESSAGE value="generated files" />
+    <option name="LAST_COMMIT_MESSAGE" value="generated files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1587" y="422" width="1655" height="1399" key="CommitChangelistDialog2" timestamp="1580658756611">
+    <state x="1587" y="422" width="1655" height="1399" key="CommitChangelistDialog2" timestamp="1580658773734">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
-    <state x="1587" y="422" width="1655" height="1399" key="CommitChangelistDialog2/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580658756611" />
+    <state x="1587" y="422" width="1655" height="1399" key="CommitChangelistDialog2/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580658773734" />
     <state width="1630" height="283" key="GridCell.Tab.0.bottom" timestamp="1580441003765">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -267,10 +289,10 @@
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
     <state x="2029" y="595" key="SettingsEditor/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580427785310" />
-    <state x="1999" y="520" width="782" height="873" key="find.popup" timestamp="1580445581307">
+    <state x="1999" y="520" width="782" height="873" key="find.popup" timestamp="1580666299813">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
-    <state x="1999" y="520" width="782" height="873" key="find.popup/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580445581307" />
+    <state x="1999" y="520" width="782" height="873" key="find.popup/-1680.23.1680.1027/0.23.3360.1867@0.23.3360.1867" timestamp="1580666299813" />
     <state x="1971" y="453" width="838" height="1032" key="search.everywhere.popup" timestamp="1580446412178">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
