@@ -1,24 +1,20 @@
-# README
+##Backend Rails App for Weathertracker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To be used along with [Weather Track Frontend](https://github.com/jminterwebs/weathertrack-frontend)
 
-Things you may want to cover:
+This app pulls data from the [Darksky API](https://darksky.net/dev) and saves it to a database. To seed the database the past 30 days of weather are parsed for both LA and NYC. After that there is a cron job that runs which will update the weather every day.
 
-* Ruby version
+######App uses Postgres set up for Postgres can be found [here](https://www.digitalocean.com/community/tutorials/how-to-set-up-ruby-on-rails-with-postgres)
 
-* System dependencies
+1. Clone down repo 
+2. run `bundle install`
+3. run `rake db:create db:migrate db:seed`
+4. `rails s`
 
-* Configuration
+To run crontab.
 
-* Database creation
+A gem called crono is installed. This gem will run a cron job every day to grab yesterdays weather. 
 
-* Database initialization
+To start the cron job run the following in terminal
+`bundle exec crono RAILS_ENV=development`
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
